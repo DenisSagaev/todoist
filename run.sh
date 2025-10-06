@@ -1,0 +1,1 @@
+source /scripts/todoist/.venv/bin/activate && /scripts/todoist/.venv/bin/python /scripts/todoist/main.py

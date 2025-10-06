@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0b9f9c9b-c4cb-42db-bef9-ce5f261021c7" name="todoist">
+        <fileTransfer accessType="SFTP" host="83.222.22.48" port="22" sshConfigId="eb81ef39-33bd-4d8a-a5bd-9c7cbca9fcc5" sshConfig="root@83.222.22.48:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
