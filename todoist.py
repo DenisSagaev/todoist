@@ -12,7 +12,7 @@ locale.setlocale(locale.LC_ALL, 'ru_RU.UTF-8')
 # with open(config_file_path, "r", encoding="utf-8") as f:
 #     config = load(f, Loader)
 
-api = TodoistAPI('58a4f15efbfee49f7d3ac6aafe920749130fd6d1')
+api = TodoistAPI('your token')
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
